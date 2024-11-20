@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/69add51f-9984-4aaf-8b28-26c62b3c0390)
+![image](https://github.com/user-attachments/assets/98a63028-cdb1-4e64-b40f-72e4ded80a0a)
+
 
 class Estudiante():
     def __init__(self , nombre , nota):
